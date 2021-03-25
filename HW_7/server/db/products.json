@@ -1,0 +1,30 @@
+[
+  {
+    "id_product": 124,
+    "category": 1,
+    "product_name": "Котэ 1",
+    "price": 1600,
+    "image": "/img/1.jpeg"
+  },
+  {
+    "id_product": 457,
+    "category": 2,
+    "product_name": "Котэ 2",
+    "price": 3000,
+    "image": "/img/2.jpeg"
+  },
+  {
+    "id_product": 123,
+    "category": 1,
+    "product_name": "Котэ 3",
+    "price": 45600,
+    "image": "/img/3.jpeg"
+  },
+  {
+    "id_product": 456,
+    "category": 2,
+    "product_name": "Котэ N",
+    "price": 1000,
+    "image": "/img/4.jpeg"
+  }
+]
