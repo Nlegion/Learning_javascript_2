@@ -1,0 +1,38 @@
+{
+    "amount": 1,
+    "countGoods": 1,
+    "contents": [
+        {
+            "id_product": 123,
+            "category": 1,
+            "product_name": "Котэ 1+",
+            "price": 45600,
+            "quantity": 20,
+            "image": "/img/1.jpeg"
+        },
+        {
+            "id_product": 456,
+            "category": 2,
+            "product_name": "Котэ 2-",
+            "price": 1000,
+            "quantity": 12,
+            "image": "/img/2.jpeg"
+        },
+        {
+            "quantity": 6,
+            "id_product": 457,
+            "category": 1,
+            "product_name": "Котэ 3 !",
+            "price": 3000,
+            "image": "/img/3.jpeg"
+        },
+        {
+            "quantity": 20,
+            "id_product": 124,
+            "product_name": "Котэ 4 мега",
+            "price": 1600,
+            "category": 1,
+            "image": "/img/4.jpeg"
+        }
+    ]
+}
